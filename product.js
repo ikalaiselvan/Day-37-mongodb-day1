@@ -1,3 +1,5 @@
+// mongodb day-1 task :
+
 // product list :
 db.product.insertMany([
   {
